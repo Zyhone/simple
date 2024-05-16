@@ -17,3 +17,8 @@ Simple/
 └── notebooks/
     └── training_error_features.ipynb       # notebook onde a mágica acontece
 ```
+
+## Instalaar
+```
+pip install -r requirements.txt
+```
